@@ -36,7 +36,7 @@ This Banking App Project is open-sourced software licensed under the [MIT licens
 ## Demo Screenshots
 
 <img src="/app/src/main/res/drawable/ap1.PNG" alt="bank app login" />
-<img src="/app/src/main/res/drawable/ap2.PNG" alt="bank app sqlite" />
-<img src="/app/src/main/res/drawable/ap3.PNG" alt="android app sqlite" />
+<img src="/app/src/main/res/drawable/ap3.PNG" alt="bank app sqlite" />
 <img src="/app/src/main/res/drawable/ap4.PNG" alt="android app sqlite" />
+<img src="/app/src/main/res/drawable/ap5.PNG" alt="android app sqlite" />
 
